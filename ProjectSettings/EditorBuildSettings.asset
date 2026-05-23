@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Nivel1.unity
     guid: ca696701cd3a414458b1fc8f12482a4d
+  - enabled: 1
+    path: Assets/Scenes/subterraneo.unity
+    guid: 543ef4293d0a8874884cc903cd0daaa9
+  - enabled: 1
+    path: Assets/Scenes/castillo.unity
+    guid: c2371ee2ba20dd14499c8ccaf0d1c2f4
   m_configObjects: {}
